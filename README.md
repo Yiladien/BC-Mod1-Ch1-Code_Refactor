@@ -1,58 +1,19 @@
-# Code Refactor Starter Code
+# Code Refactor - Horiseon
 
-UTSA Bootcamp
-Module 1 - Challenge 1
-Student: Gabriel Cordova
-7/20/2022
+## Description
 
-User Request:
-    AS A marketing agency
-    I WANT a codebase that follows accessibility standards
-    SO THAT our own site is optimized for search engines
+- A marketing website that follows accessibiility standards
+- Optimized for search engines
 
-Acceptence Criteria:
-    GIVEN a webpage meets accessibility standards
-    WHEN I view the source code
-    THEN I find semantic HTML elements
-    WHEN I view the structure of the HTML elements
-    THEN I find that the elements follow a logical structure independent of styling and positioning
-    WHEN I view the image elements
-    THEN I find accessible alt attributes
-    WHEN I view the heading attributes
-    THEN they fall in sequential order
-    WHEN I view the title element
-    THEN I find a concise, descriptive title
+## Application
 
-How to Complete the Challenge:
-    1. Clone your starter code (https://github.com/coding-boot-camp/urban-octo-telegram).
-    2. Refactor the code to meet the Acceptance Criteria.
-    3. Make sure your work meets the full list of grading requirements.
-    4. Follow the instructions to submit your Challenge for review.
+Link to the application:
+[Horiseon](https://yiladien.github.io/Code_Refactor-Horiseon/)
 
+### Website Layout:
 
-Grading Requirements:
-Technical Acceptance Criteria: 40%
-    - Satisfies all of the preceding acceptance criteria plus the following code improvements:
-        -Application's links all function correctly.
-        -Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-        - Application's CSS file is properly commented.
+Modern layout opening page with an eye catching attractive hero image:
+![Website page with a horizontal header containing the company name and navigation bar. Below is a large image showing a group of people collaborating on a task. Below starts the main content of the page.](https://user-images.githubusercontent.com/100401790/188081095-9c36f2fe-60e4-4044-ad89-d7684afedbe4.png)
 
-Deployment: 32%
-    - Application deployed at live URL.
-    - Application loads with no errors.
-    - Application GitHub URL submitted.
-    - GitHub repository that contains application code.
-
-Application Quality: 15%
-    - Application resembles (at least 90%) screenshots provided in challenge instructions.
-Repository Quality: 13%
-    - Repository has a unique name.
-    - Repository follows best practices for file structure and naming conventions.
-    - Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-    - Repository contains multiple descriptive commit messages.
-    - Repository contains quality README file with description, screenshot, and link to deployed application.
-
-How to Submit:
-You are required to submit BOTH of the following for review:
-    - The URL of the deployed application.
-    - The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+Main content in an organized section tile layout capable to promoting different images and content:
+![Page with the question, buttons for the response, and a footer that informs the user if they answered incorrectly.](https://user-images.githubusercontent.com/100401790/188081667-fee17f34-d542-4623-add3-15e1cf93e5ec.png)
